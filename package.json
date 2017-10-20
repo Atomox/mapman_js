@@ -1,0 +1,14 @@
+{
+  "name": "mapman",
+  "version": "1.0.0",
+  "description": "A little map utility demo.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bhelmer",
+  "license": "ISC",
+  "dependencies": {
+    "vt-geojson": "^2.1.1"
+  }
+}

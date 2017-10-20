@@ -1,0 +1,4 @@
+div.leaflet-map {
+	height: 640px;
+	border: 1px solid red;
+}
